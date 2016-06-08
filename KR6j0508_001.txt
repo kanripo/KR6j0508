@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:54.598146
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:21
 #+TITLE: 速疾立驗魔醯首羅天說阿尾奢法
 #+PROPERTY: CBETA_ID T21n1277
 #+PROPERTY: ID KR6j0508
